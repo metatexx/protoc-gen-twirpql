@@ -14,67 +14,67 @@ autobind: []
 models:
   BreadReq:
     model:
-    - marwan.io/protoc-gen-twirpql/e2e.BreadReq
+    - github.com/metatexx/protoc-gen-twirpql/e2e.BreadReq
   BreadResp:
     model:
-    - marwan.io/protoc-gen-twirpql/e2e.BreadResp
+    - github.com/metatexx/protoc-gen-twirpql/e2e.BreadResp
   BreadRespAnswer:
     model:
-    - marwan.io/protoc-gen-twirpql/e2e/twirpql.unionMask
+    - github.com/metatexx/protoc-gen-twirpql/e2e/twirpql.unionMask
   BreadRespAnswerName:
     model:
-    - marwan.io/protoc-gen-twirpql/e2e.BreadResp_Name
+    - github.com/metatexx/protoc-gen-twirpql/e2e.BreadResp_Name
   BreadRespAnswerToasted:
     model:
-    - marwan.io/protoc-gen-twirpql/e2e.BreadResp_Toasted
+    - github.com/metatexx/protoc-gen-twirpql/e2e.BreadResp_Toasted
   ChangeMeReq:
     model:
-    - marwan.io/protoc-gen-twirpql/e2e.ChangeMeReq
+    - github.com/metatexx/protoc-gen-twirpql/e2e.ChangeMeReq
   ChangeMeResp:
     model:
-    - marwan.io/protoc-gen-twirpql/e2e.ChangeMeResp
+    - github.com/metatexx/protoc-gen-twirpql/e2e.ChangeMeResp
   ChangeMeRespAnswer:
     model:
-    - marwan.io/protoc-gen-twirpql/e2e/twirpql.unionMask
+    - github.com/metatexx/protoc-gen-twirpql/e2e/twirpql.unionMask
   ChangeMeRespAnswerChanged:
     model:
-    - marwan.io/protoc-gen-twirpql/e2e.ChangeMeResp_Changed
+    - github.com/metatexx/protoc-gen-twirpql/e2e.ChangeMeResp_Changed
   ChangeMeRespAnswerNewName:
     model:
-    - marwan.io/protoc-gen-twirpql/e2e.ChangeMeResp_NewName
+    - github.com/metatexx/protoc-gen-twirpql/e2e.ChangeMeResp_NewName
   HelloReq:
     model:
-    - marwan.io/protoc-gen-twirpql/e2e.HelloReq
+    - github.com/metatexx/protoc-gen-twirpql/e2e.HelloReq
   HelloResp:
     model:
-    - marwan.io/protoc-gen-twirpql/e2e.HelloResp
+    - github.com/metatexx/protoc-gen-twirpql/e2e.HelloResp
   Painters_Painter:
     model:
-    - marwan.io/protoc-gen-twirpql/e2e/painters.Painter
+    - github.com/metatexx/protoc-gen-twirpql/e2e/painters.Painter
   PaintersResp:
     model:
-    - marwan.io/protoc-gen-twirpql/e2e.PaintersResp
+    - github.com/metatexx/protoc-gen-twirpql/e2e.PaintersResp
   Previous:
     model:
-    - marwan.io/protoc-gen-twirpql/e2e/twirpql.Previous
+    - github.com/metatexx/protoc-gen-twirpql/e2e/twirpql.Previous
   TrafficJamReq:
     model:
-    - marwan.io/protoc-gen-twirpql/e2e.TrafficJamReq
+    - github.com/metatexx/protoc-gen-twirpql/e2e.TrafficJamReq
   TrafficJamResp:
     model:
-    - marwan.io/protoc-gen-twirpql/e2e.TrafficJamResp
+    - github.com/metatexx/protoc-gen-twirpql/e2e.TrafficJamResp
   TrafficLight:
     model:
-    - marwan.io/protoc-gen-twirpql/e2e.TrafficLight
+    - github.com/metatexx/protoc-gen-twirpql/e2e.TrafficLight
   TranslateReq:
     model:
-    - marwan.io/protoc-gen-twirpql/e2e.TranslateReq
+    - github.com/metatexx/protoc-gen-twirpql/e2e.TranslateReq
   TranslateResp:
     model:
-    - marwan.io/protoc-gen-twirpql/e2e.TranslateResp
+    - github.com/metatexx/protoc-gen-twirpql/e2e.TranslateResp
   Translations:
     model:
-    - marwan.io/protoc-gen-twirpql/e2e/twirpql.Translations
+    - github.com/metatexx/protoc-gen-twirpql/e2e/twirpql.Translations
   Words:
     model:
-    - marwan.io/protoc-gen-twirpql/e2e/twirpql.Words
+    - github.com/metatexx/protoc-gen-twirpql/e2e/twirpql.Words

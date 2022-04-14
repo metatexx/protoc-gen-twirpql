@@ -6,7 +6,7 @@ import (
 	"encoding/json"
 	"io"
 
-	"marwan.io/protoc-gen-twirpql/e2e"
+	"github.com/metatexx/protoc-gen-twirpql/e2e"
 )
 
 type Previous map[string]*e2e.ChangeMeResp

@@ -4,6 +4,7 @@ schema:
 - twirpql/schema.graphql
 exec:
   filename: twirpql/generated.go
+  dir: ""
 model:
   filename: twirpql/models_gen.go
 resolver:

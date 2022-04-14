@@ -6,10 +6,10 @@ import (
 	"strings"
 	"testing"
 
+	"github.com/metatexx/protoc-gen-twirpql/e2e"
+	"github.com/metatexx/protoc-gen-twirpql/e2e/painters"
+	"github.com/metatexx/protoc-gen-twirpql/e2e/twirpql"
 	"github.com/stretchr/testify/require"
-	"marwan.io/protoc-gen-twirpql/e2e"
-	"marwan.io/protoc-gen-twirpql/e2e/painters"
-	"marwan.io/protoc-gen-twirpql/e2e/twirpql"
 )
 
 func TestHello(t *testing.T) {

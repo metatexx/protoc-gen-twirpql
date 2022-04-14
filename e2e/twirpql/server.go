@@ -13,7 +13,7 @@ import (
 	"github.com/99designs/gqlgen/graphql/playground"
 	"github.com/twitchtv/twirp"
 	"github.com/twitchtv/twirp/ctxsetters"
-	"marwan.io/protoc-gen-twirpql/e2e"
+	"github.com/metatexx/protoc-gen-twirpql/e2e"
 )
 
 // Playground is a proxy to github.com/99designs/gqlgen/handler.Playground

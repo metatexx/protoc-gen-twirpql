@@ -8,7 +8,7 @@ import (
 
 	"github.com/99designs/gqlgen/graphql"
 	"github.com/vektah/gqlparser/v2/ast"
-	"marwan.io/protoc-gen-twirpql/e2e"
+	"github.com/metatexx/protoc-gen-twirpql/e2e"
 )
 
 func (ec *executionContext) _TrafficLight(ctx context.Context, sel ast.SelectionSet, v *e2e.TrafficLight) graphql.Marshaler {

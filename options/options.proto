@@ -1,6 +1,6 @@
 syntax = "proto3";
 package twirpql.options;
-option go_package = "marwan.io/protoc-gen-twirpql/options;options";
+option go_package = "github.com/metatexx/protoc-gen-twirpql/options;options";
 
 import "google/protobuf/descriptor.proto";
 

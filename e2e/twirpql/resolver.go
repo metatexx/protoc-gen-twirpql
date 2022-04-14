@@ -5,7 +5,7 @@ package twirpql
 import (
 	"context"
 
-	"marwan.io/protoc-gen-twirpql/e2e"
+	"github.com/metatexx/protoc-gen-twirpql/e2e"
 )
 
 type Resolver struct {

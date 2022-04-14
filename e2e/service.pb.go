@@ -6,8 +6,8 @@ package e2e
 import (
 	fmt "fmt"
 	proto "github.com/golang/protobuf/proto"
-	painters "marwan.io/protoc-gen-twirpql/e2e/painters"
-	_ "marwan.io/protoc-gen-twirpql/options"
+	painters "github.com/metatexx/protoc-gen-twirpql/e2e/painters"
+	_ "github.com/metatexx/protoc-gen-twirpql/options"
 	math "math"
 )
 

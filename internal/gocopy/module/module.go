@@ -24,7 +24,7 @@ import (
 	"unicode"
 	"unicode/utf8"
 
-	"marwan.io/protoc-gen-twirpql/internal/gocopy/semver"
+	"github.com/metatexx/protoc-gen-twirpql/internal/gocopy/semver"
 )
 
 // A Version is defined by a module path and version pair.

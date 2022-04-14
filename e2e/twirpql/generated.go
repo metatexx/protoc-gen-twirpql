@@ -15,8 +15,8 @@ import (
 	"github.com/99designs/gqlgen/graphql/introspection"
 	gqlparser "github.com/vektah/gqlparser/v2"
 	"github.com/vektah/gqlparser/v2/ast"
-	"marwan.io/protoc-gen-twirpql/e2e"
-	"marwan.io/protoc-gen-twirpql/e2e/painters"
+	"github.com/metatexx/protoc-gen-twirpql/e2e"
+	"github.com/metatexx/protoc-gen-twirpql/e2e/painters"
 )
 
 // region    ************************** generated!.gotpl **************************

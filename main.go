@@ -6,8 +6,8 @@ import (
 	"os"
 
 	pgs "github.com/lyft/protoc-gen-star"
-	"marwan.io/protoc-gen-twirpql/internal/gocopy/modfile"
-	"marwan.io/protoc-gen-twirpql/twirpql"
+	"github.com/metatexx/protoc-gen-twirpql/internal/gocopy/modfile"
+	"github.com/metatexx/protoc-gen-twirpql/twirpql"
 )
 
 func main() {

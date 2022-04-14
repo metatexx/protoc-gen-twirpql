@@ -14,9 +14,9 @@ import (
 	"strings"
 	"unicode"
 
-	"marwan.io/protoc-gen-twirpql/internal/gocopy/lazyregexp"
-	"marwan.io/protoc-gen-twirpql/internal/gocopy/module"
-	"marwan.io/protoc-gen-twirpql/internal/gocopy/semver"
+	"github.com/metatexx/protoc-gen-twirpql/internal/gocopy/lazyregexp"
+	"github.com/metatexx/protoc-gen-twirpql/internal/gocopy/module"
+	"github.com/metatexx/protoc-gen-twirpql/internal/gocopy/semver"
 )
 
 // A File is the parsed, interpreted form of a go.mod file.
